@@ -1,18 +1,45 @@
-### Hallo, ich bin Zoltan! 👋
+# Hallo, ich bin Zoltán 👋
 
-Ich mache derzeit eine Umschulung zum **Fachinformatiker für Anwendungsentwicklung** in Bayern (Raum Augsburg). Mein Fokus liegt auf sauberem Code ("Clean Code"), IT-Logik und moderner Softwarearchitektur.
+Ich absolviere derzeit eine Umschulung zum  
+**Fachinformatiker für Anwendungsentwicklung (IHK)**  
+im Raum **Augsburg / Bayern**.
 
-I am currently retraining as a Software Developer in Germany, passionate about understanding the core logic behind the code.
-
-- 🔭 Aktuelles Projekt / Current Work: **Python Logic Tools & Hardware Scripts**
-- 📚 Ich lerne gerade / Learning: **Computer Architecture, Number Systems, Green IT**
-- 📍 Standort / Location: **Aystetten / Augsburg Area**
-- 📱 Mobile Tech: Testing & Optimization on **Pixel 7 Pro**
-
-### 🛠️ Tech Stack & Skills
-- **Languages:** Python (Active Learning), Java/C# (Planned)
-- **Core Topics:** Zahlensysteme (Number Systems), USV/RAID (UPS/RAID), Green IT & Sustainability
-- **Tools:** GitHub, VS Code
+Mein Fokus liegt auf sauberer Programmlogik,
+nachvollziehbaren Systemen und praxisnahen Tools,
+die technische Grundlagen verständlich abbilden.
 
 ---
-⭐️ *Looking for an internship (Praktikum) starting in 2026.*
+
+## 🔧 Aktuelle Projekte
+
+- **Number System Converter (Python CLI)**  
+  Umrechnung zwischen Dezimal-, Binär- und Hexadezimalsystemen  
+  Fokus: Logik, Fehlerbehandlung, CLI-Struktur
+
+---
+
+## 📚 Lernschwerpunkte
+
+- Rechnerarchitektur & Zahlensysteme
+- IT-Grundlagen & Systemverständnis
+- Clean Code & strukturierte Programmlogik
+- Nachhaltige IT (Green IT)
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** Python (active learning)
+- **Planned:** Java / C#
+- **Tools:** GitHub, VS Code
+- **Topics:** Number Systems, USV/RAID, IT Basics
+
+---
+
+## 📍 Standort
+
+Augsburg / Aystetten (Bayern, DE)
+
+---
+
+⭐ **Looking for an internship (Pflichtpraktikum) starting in 2026**
