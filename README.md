@@ -1,4 +1,4 @@
-# Hallo, ich bin Zoltán 👋
+# Hallo, ich bin Zoltan 👋
 
 Ich absolviere derzeit eine Umschulung zum  
 **Fachinformatiker für Anwendungsentwicklung (IHK)**  
