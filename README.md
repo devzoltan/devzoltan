@@ -15,7 +15,7 @@ PWA · Performance · Security by Design — based in Bavaria, Germany
 
 I design and build maintainable full-stack systems for productive use – with a focus on **performance**, **security by design**
 and **AI-assisted development workflows** that keep a human engineer in charge of every decision.
-Background in hardware-near development (ex-founder of CyberryPi).
+Background in hardware-near development.
 
 ### ⭐ Featured project
 
